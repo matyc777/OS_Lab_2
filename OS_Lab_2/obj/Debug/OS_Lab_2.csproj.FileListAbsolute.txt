@@ -1,0 +1,10 @@
+c:\users\xxx\documents\visual studio 2017\Projects\OS_Lab_2\OS_Lab_2\obj\Debug\OS_Lab_2.csprojResolveAssemblyReference.cache
+c:\users\xxx\documents\visual studio 2017\Projects\OS_Lab_2\OS_Lab_2\obj\Debug\OS_Lab_2.Form1.resources
+c:\users\xxx\documents\visual studio 2017\Projects\OS_Lab_2\OS_Lab_2\obj\Debug\OS_Lab_2.Properties.Resources.resources
+c:\users\xxx\documents\visual studio 2017\Projects\OS_Lab_2\OS_Lab_2\obj\Debug\OS_Lab_2.csproj.GenerateResource.Cache
+c:\users\xxx\documents\visual studio 2017\Projects\OS_Lab_2\OS_Lab_2\bin\Debug\OS_Lab_2.exe.config
+c:\users\xxx\documents\visual studio 2017\Projects\OS_Lab_2\OS_Lab_2\bin\Debug\OS_Lab_2.exe
+c:\users\xxx\documents\visual studio 2017\Projects\OS_Lab_2\OS_Lab_2\bin\Debug\OS_Lab_2.pdb
+c:\users\xxx\documents\visual studio 2017\Projects\OS_Lab_2\OS_Lab_2\obj\Debug\OS_Lab_2.exe
+c:\users\xxx\documents\visual studio 2017\Projects\OS_Lab_2\OS_Lab_2\obj\Debug\OS_Lab_2.pdb
+C:\Users\XXX\documents\visual studio 2017\Projects\OS_Lab_2\OS_Lab_2\obj\Debug\OS_Lab_2.Peterson.resources
